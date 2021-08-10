@@ -1,0 +1,81 @@
+{
+    "product": [
+        {
+            "id":1,
+            "name": " arihant  Handbook of Mathematics  (English, Paperback, unknown)",
+            "image": "/images/arihant maths-class-7.jpg",
+            "description":
+              "Mathematics of higher level has too many theories, rules and remembering all of them on tips all the time is not an easy task. Handbook of Mathematics is an important, useful and compact reference book suitable for everyday study, problem solving or exam revision for class XI � XII. This book is a multi-purpose quick revision resource that contains almost all key notes, terms, definitions and formulae that all students & professionals in mathematics will want to have this essential reference book within easy reach. Its unique format displays formulae clearly, places them in the context and crisply identifies describes all the variables involved, summary about every equations and formula that one might want while learning mathematics is one of the unique features of the book, a stimulating and crisp extract of fundamental mathematics is to be enjoyed by the beginners and experts equally. The book is best-selling from its first edition and one of the most useful books of its type. Table of content Sets, Relations and Binary Operations, Complex Numbers, Quadratic Equations and Inequalities, Sequences and Series, Permutation and Combinations, Binomial Theorem and Mathematical Induction, Matrices, Determinant, Probability, Trigonometric Functions, Inverse Trigonometric Functions, Solution of Triangles, Heights and Distances, Rectangular Axis and Straight Lines, Circles, Parabola, Ellipse, Hyperbola, Functions, Limits, Continuity and Differentiability, Derivatives, Applications of Derivatives, Indefinite Integrals, Definite Integrals, Applications of Integrations, Differential Equations, Vectors, Three Dimensional Geometry, Statistics, Mathematical Reasoning and Boolean Algebra, Numerical Method, Linear Programming Problem, Computing, Group Theory, Elementary Arithmetic-I, Elementary Arithmetic-II, Percentage and Its Applications, Elementary Algebra, Logarithm, Geometry, Mensuration.",
+            "brand": "arihant",
+            "category": "Book",
+            "price": 89.99,
+            "countInStock": 10,
+            "rating": 4.5,
+            "numReviews": 12
+          },
+          {
+            "id":2,
+            "name": " Cosmos Publication Series 3 Bharat Ka Bhugol NCERT Sar Book By Mahesh Kumar Barnwal [Paperback] Cosmos Publication",
+            "image": "/images/Bhoogol.jpg",
+            "description":
+              "Cosmos Publication Series 3 Bharat Ka Bhugol NCERT Sar Book By Mahesh Kumar Barnwal [Paperback] Cosmos Publication",
+            "brand": "NCERT",
+            "category": "Book",
+            "price": 599.99,
+            "countInStock": 7,
+            "rating": 4.0,
+            "numReviews": 8          
+        },
+          {
+            "id":3,
+            "name": "Physics Simplified NCERT Class 11  (Paperback, Ms. Ekta Soni)",
+            "image": "/images/physics.jpg",
+            "description":"1. This book help students to understand the theories and experiments of physics 2. The book is divided into 15 chapters for class 11 3. Easy and interactive language eases the concepts for better understanding 4. Reference book that grasps all key points and concepts into a simpler manner, clearing all concepts. 5. The latest edition has been made to attain the entire physics concept in an easy and interactive language. 6. The book is developed volume wise to cater class wise needs. Competitive exams have been the new approach to life, for all students. Every good college is attainable through a National or Regional Level exam. NCERT Textbooks have become the benchmark for syllabus and theory for these exams. Every student needs to learn these textbooks by heart. But it’s always compact and feels short. Simplified NCERT from Arihant is one of a kind reference book that helps the student to grasp all key points and concepts in a simple manner which is easy to retain yet clearing all concepts. Physics as a subject needs visualization to learn, the latest edition has been made in such a way that you can attain the entire Physics concept in an easy and interactive language. The book is developed volume-wise to cater to class-wise needs. TABLE OF CONTENT Physics World, Units and Measurement, Motion in a Straight Line, Motion in a Plane, Laws of Motion, Work, Power and Energy, System of Particles and Rotational Motion, Gravitation, Mechanical Properties of Solids, Mechanical Properties of Fluids, Thermal Properties of Matter, Thermodynamics, Kinetic Theory, Oscillations, Waves.",
+            "brand": "arihant",
+            "category": "Book",
+            "price": 929.99,
+            "countInStock": 5,
+            "rating": 3,
+            "numReviews": 12
+          },
+          {
+            "id":4,
+            "name": "Handbook of Chemistry  (English, Paperback, Singh R.P.)",
+            "image": "/images/chemistry.jpg",
+            "description":
+              "The handbook of Chemistry has been designed for the students studying in Class XI - XII to act as the revision cum Quick Study Resource for various concepts of Chemistry. This handbook is a multipurpose quick revision resource with unique format which displays concepts clearly, places them in context and crisply identifies and describes all the factors involved.",
+             "brand": "arihant",
+            "category": "Book",
+            "price": 399.99,
+            "countInStock": 11,
+            "rating": 5,
+            "numReviews": 12
+          },
+          {
+            "id":5,
+            "name": "Bank Po Quantitative Aptitude Chapterwise Solved Papers  (English, Paperback, unknown)",
+            "image": "/images/aptitude.jpg",
+            "description":
+              "An editorial team of highly skilled professionals at Arihant, works hand in glove to ensure that the students receive the best and accurate content through our books. From inception till the book comes out from print, the whole team comprising of authors, editors, proofreaders and various other involved in shaping the book put in their best efforts, knowledge and experience to produce the rigorous content the students receive. Keeping in mind the specific requirements of the students and various examinations, the carefully designed exam oriented and exam ready content comes out only after intensive research and analysis. ",
+            "brand": "arihant",
+            "category": "Book",
+            "price": 49.99,
+            "countInStock": 7,
+            "rating": 3.5,
+            "numReviews": 10
+          },
+          {
+            "id":6,
+            "name": "General Knowledge 2021  (English, Paperback, Pandey Manohar)",
+            "image": "/images/General-Knowledge-2021.jpg",
+            "description":
+              " General knowledge has become the essential part for human social life. Have little knowledge about most of the hot topics it not only makes aware of the world but also gives you the satisfaction of being socially accepted. The more you keep yourself aware & updated with happenings around you the better you perform, not just in the various exams but also at your work by making better decisions according to the recent tastes and preferences in the market. Get the compact version of all current events of the whole year with new edition of the 'General Knowledge 2021.",
+            "brand": "arihant",
+            "category": "Book",
+            "price": 29.99,
+            "countInStock": 0,
+            "rating": 4,
+            "numReviews": 12
+          }     
+    ]
+}
